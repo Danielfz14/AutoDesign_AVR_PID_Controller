@@ -3,7 +3,7 @@
 **Designing Heuristic-Based Tuners for PID Controllers in Automatic Voltage Regulator Systems Using an Automated Hyper-Heuristic
 Approach**
 
-Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Juan Gabriel Avina-Cervantes Rodrigo Correa_
+Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Juan Gabriel Avina-Cervantes, Rodrigo Correa_
 
 
 ## Requirements
